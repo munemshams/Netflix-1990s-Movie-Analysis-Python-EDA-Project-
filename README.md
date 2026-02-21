@@ -33,9 +33,13 @@ netflix_data.csv
 
 - netflix_data.csv           → Raw dataset  
 
-- netflix_1990s_analysis.py  → Python script (optional)  
+- netflix_1990s_analysis.py  → Python script 
 
-- duration_plot.png          → Histogram plot (optional export)
+- duration_histogram.png      → Histogram of movie durations
+  
+- action_short_count.txt      → Number of short action movies
+  
+- netflix_1990s_movies.csv    → Filtered dataset (optional export)
 
 **Key Results**
 
