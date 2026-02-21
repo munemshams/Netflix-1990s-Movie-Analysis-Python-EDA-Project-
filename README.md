@@ -33,8 +33,6 @@ netflix_data.csv
 
 - netflix_data.csv           → Raw dataset  
 
-- notebook.ipynb             → Jupyter/Workspace notebook  
-
 - netflix_1990s_analysis.py  → Python script (optional)  
 
 - duration_plot.png          → Histogram plot (optional export)
